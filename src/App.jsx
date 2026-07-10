@@ -20,10 +20,10 @@ export default function App() {
         </div>
 
         <h1 className="headline">
-          We're building something <em>amazing.</em>
+          We're building something <em>amazing!</em>
         </h1>
 
-        <p className="lede">See you soon.</p>
+        <p className="lede">See you soon!</p>
 
         <div className="divider" aria-hidden="true" />
       </main>
